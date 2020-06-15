@@ -1,7 +1,7 @@
 # personal-trainer-app
 App for exercises managemenet
 
-##Scheda dell'utente
+## Scheda dell'utente
 
 titolo dell'esercizio
 note
